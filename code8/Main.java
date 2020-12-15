@@ -1,5 +1,5 @@
 public class Main {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
         // 1.生成
         Hero h = new Hero();
 
